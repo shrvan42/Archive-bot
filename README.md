@@ -6,7 +6,7 @@ A telegram bot that allows compression of multiple files into a ZIP archive
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/Archive-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/Archive-bot)
 
 
 ## Deploy locally
@@ -15,7 +15,7 @@ A telegram bot that allows compression of multiple files into a ZIP archive
 Clone the repository:
 
 ```
-git clone https://github.com/samadii/archive-bot.git
+git clone https://github.com/shrvan42/archive-bot.git
 ```
 
 Install requirements
