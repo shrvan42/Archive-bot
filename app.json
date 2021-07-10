@@ -1,5 +1,5 @@
 {
-  "name": "archiveBot",
+  "name": "ArchiveBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
